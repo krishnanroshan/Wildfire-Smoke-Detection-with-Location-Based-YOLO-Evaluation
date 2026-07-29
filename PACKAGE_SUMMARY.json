@@ -1,0 +1,15 @@
+{
+  "repository": "wildfire-smoke-location-benchmark",
+  "files_excluding_manifests": 5029,
+  "bytes_excluding_manifests": 36665761,
+  "megabytes_excluding_manifests": 34.97,
+  "largest_file": {
+    "path": "models/holdout_evo_best.pt",
+    "bytes": 5443930,
+    "sha256": "4388841cfa837b67e73a676ecb30a51c665c734ae4b014a87c312db20a1c934f"
+  },
+  "all_files_below_25_mib": true,
+  "label_files": 4954,
+  "model_checkpoints": 4,
+  "split_files": 12
+}
