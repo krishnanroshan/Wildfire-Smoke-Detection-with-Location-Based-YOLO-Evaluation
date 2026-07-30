@@ -1,0 +1,58 @@
+{
+  "Evo": {
+    "train": 3620,
+    "validation": 403,
+    "test": 931,
+    "train_locations": [
+      "Heinola",
+      "Karkkila",
+      "Ruokolahti"
+    ],
+    "test_location": "Evo",
+    "train_smoke": 3386,
+    "validation_smoke": 377,
+    "test_smoke": 930
+  },
+  "Heinola": {
+    "train": 3448,
+    "validation": 383,
+    "test": 1123,
+    "train_locations": [
+      "Evo",
+      "Karkkila",
+      "Ruokolahti"
+    ],
+    "test_location": "Heinola",
+    "train_smoke": 3408,
+    "validation_smoke": 379,
+    "test_smoke": 906
+  },
+  "Karkkila": {
+    "train": 3439,
+    "validation": 382,
+    "test": 1133,
+    "train_locations": [
+      "Evo",
+      "Heinola",
+      "Ruokolahti"
+    ],
+    "test_location": "Karkkila",
+    "train_smoke": 3238,
+    "validation_smoke": 360,
+    "test_smoke": 1095
+  },
+  "Ruokolahti": {
+    "train": 2867,
+    "validation": 320,
+    "test": 1767,
+    "train_locations": [
+      "Evo",
+      "Heinola",
+      "Karkkila"
+    ],
+    "test_location": "Ruokolahti",
+    "train_smoke": 2637,
+    "validation_smoke": 294,
+    "test_smoke": 1762
+  }
+}

@@ -1,0 +1,20 @@
+# Raw dataset archives and extracted/prepared image corpora.
+packages/
+yolo_dataset/
+resolution_datasets/
+
+# Local benchmark environments, caches, and generated runs.
+venv/
+Ultralytics/
+matplotlib-cache/
+runs/
+
+# Duplicate working outputs already curated under wildfire-smoke-location-benchmark/.
+analysis/
+experiment/
+report/
+Wildfire_Smoke_Detection_Notion_Package.zip
+
+# Downloaded base model weights kept outside the submission package.
+yolo11n.pt
+yolo26n.pt

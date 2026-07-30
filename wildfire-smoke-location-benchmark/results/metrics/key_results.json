@@ -1,0 +1,61 @@
+{
+  "hardest_location": "Heinola",
+  "lowest_reliable_resolution": "320x180",
+  "reliability_rule": "macro recall >= 0.80, macro mAP50 >= 0.80, worst-location recall >= 0.70",
+  "aggregate_by_resolution": [
+    {
+      "resolution": "1920x1080",
+      "macro_precision": 0.170574365,
+      "macro_recall": 0.17537335499999998,
+      "macro_map50": 0.083303885,
+      "macro_map50_95": 0.0188702725,
+      "worst_location_recall": 0.00636943
+    },
+    {
+      "resolution": "1280x720",
+      "macro_precision": 0.5537749475,
+      "macro_recall": 0.5671200225,
+      "macro_map50": 0.5064637175,
+      "macro_map50_95": 0.17698011750000003,
+      "worst_location_recall": 0.28184713
+    },
+    {
+      "resolution": "640x360",
+      "macro_precision": 0.880985425,
+      "macro_recall": 0.8424486899999999,
+      "macro_map50": 0.861940615,
+      "macro_map50_95": 0.501342875,
+      "worst_location_recall": 0.71648551
+    },
+    {
+      "resolution": "320x180",
+      "macro_precision": 0.8831817949999999,
+      "macro_recall": 0.8619266624999999,
+      "macro_map50": 0.8710011149999999,
+      "macro_map50_95": 0.51541567,
+      "worst_location_recall": 0.77099237
+    }
+  ],
+  "mean_by_location": [
+    {
+      "location": "Evo",
+      "mean_map50": 0.642203745,
+      "mean_map50_95": 0.28641509249999997
+    },
+    {
+      "location": "Heinola",
+      "mean_map50": 0.567508755,
+      "mean_map50_95": 0.21641086999999998
+    },
+    {
+      "location": "Karkkila",
+      "mean_map50": 0.624194675,
+      "mean_map50_95": 0.32347986
+    },
+    {
+      "location": "Ruokolahti",
+      "mean_map50": 0.4888021575,
+      "mean_map50_95": 0.3863031125
+    }
+  ]
+}

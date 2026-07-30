@@ -1,0 +1,25 @@
+# Raw and generated image corpora are downloaded/built locally.
+data/raw/
+data/images/
+data/resolution_datasets/
+
+# Local environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.cache
+.pytest_cache/
+
+# Newly generated experiment runs. Curated completed results live in results/.
+runs/
+wandb/
+Ultralytics/
+matplotlib-cache/
+
+# OS/editor files.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

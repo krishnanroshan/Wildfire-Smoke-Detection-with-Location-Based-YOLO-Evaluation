@@ -1,0 +1,5 @@
+location,images,fp_images,fp_boxes,fn_boxes,background_images,background_fp_images
+Evo,931,59,64,77,1,1
+Heinola,1123,252,254,282,217,1
+Karkkila,1133,274,314,130,38,2
+Ruokolahti,1767,7,7,143,5,3
