@@ -1,0 +1,26 @@
+{
+  "1920x1080": {
+    "Evo": 931,
+    "Heinola": 1123,
+    "Karkkila": 1133,
+    "Ruokolahti": 1767
+  },
+  "1280x720": {
+    "Evo": 931,
+    "Heinola": 1123,
+    "Karkkila": 1133,
+    "Ruokolahti": 1767
+  },
+  "640x360": {
+    "Evo": 931,
+    "Heinola": 1123,
+    "Karkkila": 1133,
+    "Ruokolahti": 1767
+  },
+  "320x180": {
+    "Evo": 931,
+    "Heinola": 1123,
+    "Karkkila": 1133,
+    "Ruokolahti": 1767
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Evo": {
+    "status": "complete",
+    "elapsed_minutes": 27.33,
+    "best_weights": "D:\\forest-fire-smoke-benchmark\\runs\\training\\holdout_evo\\weights\\best.pt",
+    "validation_metrics": {
+      "metrics/precision(B)": 0.9833288249160757,
+      "metrics/recall(B)": 0.9516539440203562,
+      "metrics/mAP50(B)": 0.9524362439546825,
+      "metrics/mAP50-95(B)": 0.8043290097745366,
+      "fitness": 0.8043290097745366
+    }
+  },
+  "Heinola": {
+    "status": "complete",
+    "elapsed_minutes": 22.88,
+    "best_weights": "D:\\forest-fire-smoke-benchmark\\runs\\training\\holdout_heinola\\weights\\best.pt",
+    "validation_metrics": {
+      "metrics/precision(B)": 0.9867034542719262,
+      "metrics/recall(B)": 0.9544303797468354,
+      "metrics/mAP50(B)": 0.9522461280677776,
+      "metrics/mAP50-95(B)": 0.8131056370461996,
+      "fitness": 0.8131056370461996
+    }
+  },
+  "Karkkila": {
+    "status": "complete",
+    "elapsed_minutes": 21.23,
+    "best_weights": "D:\\forest-fire-smoke-benchmark\\runs\\training\\holdout_karkkila\\weights\\best.pt",
+    "validation_metrics": {
+      "metrics/precision(B)": 0.9862448092343198,
+      "metrics/recall(B)": 0.961125540884254,
+      "metrics/mAP50(B)": 0.9636196305392666,
+      "metrics/mAP50-95(B)": 0.8019074440104156,
+      "fitness": 0.8019074440104156
+    }
+  },
+  "Ruokolahti": {
+    "status": "complete",
+    "elapsed_minutes": 17.88,
+    "best_weights": "D:\\forest-fire-smoke-benchmark\\runs\\training\\holdout_ruokolahti\\weights\\best.pt",
+    "validation_metrics": {
+      "metrics/precision(B)": 0.9882668998613074,
+      "metrics/recall(B)": 0.9696969696969697,
+      "metrics/mAP50(B)": 0.9780314645055094,
+      "metrics/mAP50-95(B)": 0.7330569055887075,
+      "fitness": 0.7330569055887075
+    }
+  }
+}

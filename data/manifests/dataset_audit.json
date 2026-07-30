@@ -1,0 +1,44 @@
+{
+  "total_images": 4954,
+  "smoke_images": 4693,
+  "no_smoke_images": 261,
+  "smoke_boxes": 4862,
+  "classes": {
+    "0": "smoke"
+  },
+  "per_location": {
+    "Evo": {
+      "images": 931,
+      "smoke_images": 930,
+      "no_smoke_images": 1,
+      "smoke_boxes": 957,
+      "dedicated_empty_images": 0
+    },
+    "Heinola": {
+      "images": 1123,
+      "smoke_images": 906,
+      "no_smoke_images": 217,
+      "smoke_boxes": 917,
+      "dedicated_empty_images": 217
+    },
+    "Karkkila": {
+      "images": 1133,
+      "smoke_images": 1095,
+      "no_smoke_images": 38,
+      "smoke_boxes": 1104,
+      "dedicated_empty_images": 37
+    },
+    "Ruokolahti": {
+      "images": 1767,
+      "smoke_images": 1762,
+      "no_smoke_images": 5,
+      "smoke_boxes": 1884,
+      "dedicated_empty_images": 2
+    }
+  },
+  "dimensions": {
+    "4096x2160": 3728,
+    "3840x2160": 1133,
+    "1920x1080": 93
+  }
+}
